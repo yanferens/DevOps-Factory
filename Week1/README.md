@@ -40,10 +40,11 @@ cat /var/log/db_query.log
 ```
 Expected Result: The terminal should output the queried table records:
 
-
+```bash
 id   name
 1    Alice
 2    Bob
+```
 Disconnect from the virtual node:
 
 ```bash
